@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eviheula.github.io/ZDE/sitemap_index.txt
+Sitemap: https://eviheula.github.io/fsT/sitemap_index.txt
+Sitemap: https://eviheula.github.io/ksM/sitemap_index.txt
+Sitemap: https://eviheula.github.io/mWu/sitemap_index.txt
